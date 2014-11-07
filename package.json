@@ -1,0 +1,10 @@
+{
+  "name": "utf8-encode",
+  "version": "1.0.0",
+  "description": "Encode JavaScript strings in UTF8",
+  "main": "./index.js",
+  "repository": "ForbesLindesay/utf8-encode",
+  "author": "ForbesLindesay",
+  "license": "MIT",
+  "files": ["index.js"]
+}
