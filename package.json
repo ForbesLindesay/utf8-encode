@@ -1,0 +1,9 @@
+{
+  "name": "utf8-encode",
+  "description": "Encode JavaScript strings in UTF8",
+  "repository": "https://github.com/ForbesLindesay/utf8-encode.git",
+  "version": "1.0.0",
+  "keywords": ["utf8"],
+  "dependencies": {},
+  "scripts": ["index.js"]
+}
